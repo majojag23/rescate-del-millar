@@ -1,0 +1,2411 @@
+[
+  {
+    "id": "11a116037546a6c36987d57a",
+    "name": "GOZ · Etapa 3 · Saltar",
+    "path": "estudio-juegos/data/personajes-kira/personajes/goz/e3/jump_sheet.png",
+    "source": "Personajes KIRA",
+    "category": "personajes",
+    "bytes": 376080,
+    "kind": "image",
+    "url": "/asset/11a116037546a6c36987d57a?v=1790052204058082773",
+    "thumbnail": "/thumb/11a116037546a6c36987d57a?v=1790052204058082773",
+    "width": 1280,
+    "height": 1280,
+    "frames": [
+      {
+        "name": "0",
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "1",
+        "x": 256,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "2",
+        "x": 512,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "3",
+        "x": 768,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "4",
+        "x": 1024,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "5",
+        "x": 0,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "6",
+        "x": 256,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "7",
+        "x": 512,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "8",
+        "x": 768,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "9",
+        "x": 1024,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "10",
+        "x": 0,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "11",
+        "x": 256,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "12",
+        "x": 512,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "13",
+        "x": 768,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "14",
+        "x": 1024,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "15",
+        "x": 0,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "16",
+        "x": 256,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "17",
+        "x": 512,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "18",
+        "x": 768,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "19",
+        "x": 1024,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "20",
+        "x": 0,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "21",
+        "x": 256,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "22",
+        "x": 512,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "23",
+        "x": 768,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "24",
+        "x": 1024,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      }
+    ],
+    "modified": 1790052204058082773,
+    "atlas": "estudio-juegos/data/personajes-kira/personajes/goz/e3/jump_atlas.json",
+    "character": "goz",
+    "stage": "e3",
+    "movement": "jump",
+    "movementLabel": "Saltar",
+    "direction": "original",
+    "collection": "kira-v3",
+    "frameCount": 25,
+    "sourceNote": "Torogoz adulto. volar = vuelo horizontal estricto. Mira a la derecha (flipeado). walk sostiene 3/4.",
+    "status": "ok",
+    "fps": 12,
+    "sha256": "96dded1f05ffe79bea47e8fb7f3fcb013e04d952ef94df7d40ac548898497637",
+    "packagePath": "assets/personajes/goz/e3/jump.png",
+    "absolutePath": "/home/customer/juegos_workspace/estudio-juegos/data/personajes-kira/personajes/goz/e3/jump_sheet.png",
+    "atlasPackagePath": "assets/personajes/goz/e3/jump.json"
+  },
+  {
+    "id": "1578ab000f8894098fb1c6e4",
+    "name": "mosaico-vacio",
+    "path": "estudio-juegos/data/imports/0e7994da-5f24-4fdd-8688-532f2f6f207b/mosaico-vacio.png",
+    "source": "Importados",
+    "category": "props",
+    "bytes": 2033041,
+    "kind": "image",
+    "url": "/asset/1578ab000f8894098fb1c6e4?v=1791567733586917076",
+    "thumbnail": "/thumb/1578ab000f8894098fb1c6e4?v=1791567733586917076",
+    "width": 1261,
+    "height": 1247,
+    "frames": [],
+    "modified": 1791567733586917076,
+    "originalRelativePath": "mosaico-vacio.png",
+    "packagePath": "assets/props/mosaico-vacio.png",
+    "absolutePath": "/home/customer/juegos_workspace/estudio-juegos/data/imports/0e7994da-5f24-4fdd-8688-532f2f6f207b/mosaico-vacio.png",
+    "sha256": "4887cb3b3a9d95831b35e7085fc6c91b5c9ab6de5c1db4c1fc4f6785394d5378"
+  },
+  {
+    "id": "1f7514d4fbec30cbca7001fe",
+    "name": "02-islas-lejanas",
+    "path": "estudio-juegos/data/imports/d35fb0b7-6a14-468f-b9ef-7cb926c7da23/02-islas-lejanas.png",
+    "source": "Importados",
+    "category": "props",
+    "bytes": 844784,
+    "kind": "image",
+    "url": "/asset/1f7514d4fbec30cbca7001fe?v=1791567569165614559",
+    "thumbnail": "/thumb/1f7514d4fbec30cbca7001fe?v=1791567569165614559",
+    "width": 1672,
+    "height": 941,
+    "frames": [],
+    "modified": 1791567569165614559,
+    "originalRelativePath": "02-islas-lejanas.png",
+    "packagePath": "assets/props/02-islas-lejanas.png",
+    "absolutePath": "/home/customer/juegos_workspace/estudio-juegos/data/imports/d35fb0b7-6a14-468f-b9ef-7cb926c7da23/02-islas-lejanas.png",
+    "sha256": "482e3102bc6699d1a04e1384b4037f4328312c596c1782c64c396d09ddb0351d"
+  },
+  {
+    "id": "3271a87b0eab5cad554198fe",
+    "name": "pantalla-inicio-v1",
+    "path": "estudio-juegos/data/imports/ab1940eb-45d6-4675-87c7-319fc2bf883b/pantalla-inicio-v1.png",
+    "source": "Importados",
+    "category": "referencias",
+    "bytes": 2192101,
+    "kind": "image",
+    "url": "/asset/3271a87b0eab5cad554198fe?v=1791568315723526893",
+    "thumbnail": "/thumb/3271a87b0eab5cad554198fe?v=1791568315723526893",
+    "width": 1672,
+    "height": 941,
+    "frames": [],
+    "modified": 1791568315723526893,
+    "originalRelativePath": "pantalla-inicio-v1.png",
+    "packagePath": "assets/referencias/pantalla-inicio-v1.png",
+    "absolutePath": "/home/customer/juegos_workspace/estudio-juegos/data/imports/ab1940eb-45d6-4675-87c7-319fc2bf883b/pantalla-inicio-v1.png",
+    "sha256": "155431ff1fb0ad758aec64bfd63ada556da45150b478dea6f61e37b3275c3f23"
+  },
+  {
+    "id": "5441b8afb49e648b8b3c4e62",
+    "name": "GOZ · Etapa 3 · Caminar · Izquierda",
+    "path": "estudio-juegos/data/personajes-kira/personajes/goz/e3/alt_mira_izquierda/walk_sheet.png",
+    "source": "Personajes KIRA",
+    "category": "personajes",
+    "bytes": 231343,
+    "kind": "image",
+    "url": "/asset/5441b8afb49e648b8b3c4e62?v=1790052204054082728",
+    "thumbnail": "/thumb/5441b8afb49e648b8b3c4e62?v=1790052204054082728",
+    "width": 1280,
+    "height": 1280,
+    "frames": [
+      {
+        "name": "0",
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "1",
+        "x": 256,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "2",
+        "x": 512,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "3",
+        "x": 768,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "4",
+        "x": 1024,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "5",
+        "x": 0,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "6",
+        "x": 256,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "7",
+        "x": 512,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "8",
+        "x": 768,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "9",
+        "x": 1024,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "10",
+        "x": 0,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "11",
+        "x": 256,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "12",
+        "x": 512,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "13",
+        "x": 768,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "14",
+        "x": 1024,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "15",
+        "x": 0,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "16",
+        "x": 256,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "17",
+        "x": 512,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "18",
+        "x": 768,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "19",
+        "x": 1024,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "20",
+        "x": 0,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "21",
+        "x": 256,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "22",
+        "x": 512,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "23",
+        "x": 768,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "24",
+        "x": 1024,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      }
+    ],
+    "modified": 1790052204054082728,
+    "atlas": "estudio-juegos/data/personajes-kira/personajes/goz/e3/alt_mira_izquierda/walk_atlas.json",
+    "character": "goz",
+    "stage": "e3",
+    "movement": "walk",
+    "movementLabel": "Caminar",
+    "direction": "izquierda",
+    "collection": "kira-v3",
+    "frameCount": 25,
+    "sourceNote": "Torogoz adulto. volar = vuelo horizontal estricto. Mira a la derecha (flipeado). walk sostiene 3/4.",
+    "status": "ok",
+    "fps": 12,
+    "sha256": "eefa4805a867b35d6f3c5a6a5738fd842b28c4623686891c3557a39c629f26ae",
+    "packagePath": "assets/personajes/goz/e3/walk-izquierda.png",
+    "absolutePath": "/home/customer/juegos_workspace/estudio-juegos/data/personajes-kira/personajes/goz/e3/alt_mira_izquierda/walk_sheet.png",
+    "atlasPackagePath": "assets/personajes/goz/e3/walk-izquierda.json"
+  },
+  {
+    "id": "591b65c0b3de515daee65100",
+    "name": "GOZ · Etapa 3 · Caminar",
+    "path": "estudio-juegos/data/personajes-kira/personajes/goz/e3/walk_sheet.png",
+    "source": "Personajes KIRA",
+    "category": "personajes",
+    "bytes": 372060,
+    "kind": "image",
+    "url": "/asset/591b65c0b3de515daee65100?v=1790052204082083042",
+    "thumbnail": "/thumb/591b65c0b3de515daee65100?v=1790052204082083042",
+    "width": 1280,
+    "height": 1280,
+    "frames": [
+      {
+        "name": "0",
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "1",
+        "x": 256,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "2",
+        "x": 512,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "3",
+        "x": 768,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "4",
+        "x": 1024,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "5",
+        "x": 0,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "6",
+        "x": 256,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "7",
+        "x": 512,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "8",
+        "x": 768,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "9",
+        "x": 1024,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "10",
+        "x": 0,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "11",
+        "x": 256,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "12",
+        "x": 512,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "13",
+        "x": 768,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "14",
+        "x": 1024,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "15",
+        "x": 0,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "16",
+        "x": 256,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "17",
+        "x": 512,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "18",
+        "x": 768,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "19",
+        "x": 1024,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "20",
+        "x": 0,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "21",
+        "x": 256,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "22",
+        "x": 512,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "23",
+        "x": 768,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "24",
+        "x": 1024,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      }
+    ],
+    "modified": 1790052204082083042,
+    "atlas": "estudio-juegos/data/personajes-kira/personajes/goz/e3/walk_atlas.json",
+    "character": "goz",
+    "stage": "e3",
+    "movement": "walk",
+    "movementLabel": "Caminar",
+    "direction": "original",
+    "collection": "kira-v3",
+    "frameCount": 25,
+    "sourceNote": "Torogoz adulto. volar = vuelo horizontal estricto. Mira a la derecha (flipeado). walk sostiene 3/4.",
+    "status": "ok",
+    "fps": 12,
+    "sha256": "182e468431c2d89d8d3bc785e6c938df34265abf069254efd30580727ff96a66",
+    "packagePath": "assets/personajes/goz/e3/walk.png",
+    "absolutePath": "/home/customer/juegos_workspace/estudio-juegos/data/personajes-kira/personajes/goz/e3/walk_sheet.png",
+    "atlasPackagePath": "assets/personajes/goz/e3/walk.json"
+  },
+  {
+    "id": "5cd58fecda45626d89501d22",
+    "name": "moneda-pluma",
+    "path": "estudio-juegos/data/imports/4762b387-97e2-4faf-a681-e37b9c4f4560/objetos/moneda-pluma.png",
+    "source": "Importados",
+    "category": "props",
+    "bytes": 1129393,
+    "kind": "image",
+    "url": "/asset/5cd58fecda45626d89501d22?v=1789401209473800130",
+    "thumbnail": "/thumb/5cd58fecda45626d89501d22?v=1789401209473800130",
+    "width": 1029,
+    "height": 1053,
+    "frames": [],
+    "modified": 1789401209473800130,
+    "originalRelativePath": "objetos/moneda-pluma.png",
+    "packagePath": "assets/props/moneda-pluma.png",
+    "absolutePath": "/home/customer/juegos_workspace/estudio-juegos/data/imports/4762b387-97e2-4faf-a681-e37b9c4f4560/objetos/moneda-pluma.png",
+    "sha256": "0a4edd3599f9f681549d0382d364025a9c728c4a2a82abd3212a4202b551a3c8"
+  },
+  {
+    "id": "6d6769ab2779eb92616abdcf",
+    "name": "GOZ · Etapa 3 · Reposo · Izquierda",
+    "path": "estudio-juegos/data/personajes-kira/personajes/goz/e3/alt_mira_izquierda/idle_sheet.png",
+    "source": "Personajes KIRA",
+    "category": "personajes",
+    "bytes": 186223,
+    "kind": "image",
+    "url": "/asset/6d6769ab2779eb92616abdcf?v=1790052204050082684",
+    "thumbnail": "/thumb/6d6769ab2779eb92616abdcf?v=1790052204050082684",
+    "width": 1280,
+    "height": 1280,
+    "frames": [
+      {
+        "name": "0",
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "1",
+        "x": 256,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "2",
+        "x": 512,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "3",
+        "x": 768,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "4",
+        "x": 1024,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "5",
+        "x": 0,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "6",
+        "x": 256,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "7",
+        "x": 512,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "8",
+        "x": 768,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "9",
+        "x": 1024,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "10",
+        "x": 0,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "11",
+        "x": 256,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "12",
+        "x": 512,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "13",
+        "x": 768,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "14",
+        "x": 1024,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "15",
+        "x": 0,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "16",
+        "x": 256,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "17",
+        "x": 512,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "18",
+        "x": 768,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "19",
+        "x": 1024,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "20",
+        "x": 0,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "21",
+        "x": 256,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "22",
+        "x": 512,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "23",
+        "x": 768,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "24",
+        "x": 1024,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      }
+    ],
+    "modified": 1790052204050082684,
+    "atlas": "estudio-juegos/data/personajes-kira/personajes/goz/e3/alt_mira_izquierda/idle_atlas.json",
+    "character": "goz",
+    "stage": "e3",
+    "movement": "idle",
+    "movementLabel": "Reposo",
+    "direction": "izquierda",
+    "collection": "kira-v3",
+    "frameCount": 25,
+    "sourceNote": "Torogoz adulto. volar = vuelo horizontal estricto. Mira a la derecha (flipeado). walk sostiene 3/4.",
+    "status": "ok",
+    "fps": 8,
+    "sha256": "9d094a46f540ca6a999edf75781f65c2351eb126331d3ce953e3ea54c79ce708",
+    "packagePath": "assets/personajes/goz/e3/idle-izquierda.png",
+    "absolutePath": "/home/customer/juegos_workspace/estudio-juegos/data/personajes-kira/personajes/goz/e3/alt_mira_izquierda/idle_sheet.png",
+    "atlasPackagePath": "assets/personajes/goz/e3/idle-izquierda.json"
+  },
+  {
+    "id": "7edf9b67b5ea5f63c75caa73",
+    "name": "flecha-arriba",
+    "path": "estudio-juegos/data/imports/69a0b3c8-2bd9-4744-aefb-a6d8dae3f526/flecha-arriba.png",
+    "source": "Importados",
+    "category": "props",
+    "bytes": 11032,
+    "kind": "image",
+    "url": "/asset/7edf9b67b5ea5f63c75caa73?v=1791413145712984037",
+    "thumbnail": "/thumb/7edf9b67b5ea5f63c75caa73?v=1791413145712984037",
+    "width": 512,
+    "height": 512,
+    "frames": [],
+    "modified": 1791413145712984037,
+    "originalRelativePath": "flecha-arriba.png",
+    "packagePath": "assets/props/flecha-arriba.png",
+    "absolutePath": "/home/customer/juegos_workspace/estudio-juegos/data/imports/69a0b3c8-2bd9-4744-aefb-a6d8dae3f526/flecha-arriba.png",
+    "sha256": "f19b590bf319386d9933d2e15808289c8e909101d885fa99787b900d98e02e5e"
+  },
+  {
+    "id": "8e53e122ab5edb85ccc49448",
+    "name": "diagrama-MCDU-vacio",
+    "path": "estudio-juegos/data/imports/1c83d707-6afc-4a72-b0ee-3ee741341b46/diagrama-MCDU-vacio.png",
+    "source": "Importados",
+    "category": "props",
+    "bytes": 979089,
+    "kind": "image",
+    "url": "/asset/8e53e122ab5edb85ccc49448?v=1791567782035300817",
+    "thumbnail": "/thumb/8e53e122ab5edb85ccc49448?v=1791567782035300817",
+    "width": 1448,
+    "height": 1086,
+    "frames": [],
+    "modified": 1791567782035300817,
+    "originalRelativePath": "diagrama-MCDU-vacio.png",
+    "packagePath": "assets/props/diagrama-mcdu-vacio.png",
+    "absolutePath": "/home/customer/juegos_workspace/estudio-juegos/data/imports/1c83d707-6afc-4a72-b0ee-3ee741341b46/diagrama-MCDU-vacio.png",
+    "sha256": "6b1ae9eb30b0099a3d7b39e5363441498e90c2011982ff26411a83786880ebcf"
+  },
+  {
+    "id": "8f03ecce4c17dd96bfa89f01",
+    "name": "pieza-hexagonal",
+    "path": "estudio-juegos/data/imports/29d2bbf0-c85d-4fff-88db-440913942ecb/pieza-hexagonal.png",
+    "source": "Importados",
+    "category": "props",
+    "bytes": 1525411,
+    "kind": "image",
+    "url": "/asset/8f03ecce4c17dd96bfa89f01?v=1791567742990991564",
+    "thumbnail": "/thumb/8f03ecce4c17dd96bfa89f01?v=1791567742990991564",
+    "width": 1254,
+    "height": 1254,
+    "frames": [],
+    "modified": 1791567742990991564,
+    "originalRelativePath": "pieza-hexagonal.png",
+    "packagePath": "assets/props/pieza-hexagonal.png",
+    "absolutePath": "/home/customer/juegos_workspace/estudio-juegos/data/imports/29d2bbf0-c85d-4fff-88db-440913942ecb/pieza-hexagonal.png",
+    "sha256": "d84ad2380df1f976cb937584824cefa74916324ab7c8401778978f1aca410dd4"
+  },
+  {
+    "id": "8f871cf856937a8809385669",
+    "name": "GOZ · Etapa 3 · Saltar · Izquierda",
+    "path": "estudio-juegos/data/personajes-kira/personajes/goz/e3/alt_mira_izquierda/jump_sheet.png",
+    "source": "Personajes KIRA",
+    "category": "personajes",
+    "bytes": 232592,
+    "kind": "image",
+    "url": "/asset/8f871cf856937a8809385669?v=1790052204050082684",
+    "thumbnail": "/thumb/8f871cf856937a8809385669?v=1790052204050082684",
+    "width": 1280,
+    "height": 1280,
+    "frames": [
+      {
+        "name": "0",
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "1",
+        "x": 256,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "2",
+        "x": 512,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "3",
+        "x": 768,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "4",
+        "x": 1024,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "5",
+        "x": 0,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "6",
+        "x": 256,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "7",
+        "x": 512,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "8",
+        "x": 768,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "9",
+        "x": 1024,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "10",
+        "x": 0,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "11",
+        "x": 256,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "12",
+        "x": 512,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "13",
+        "x": 768,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "14",
+        "x": 1024,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "15",
+        "x": 0,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "16",
+        "x": 256,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "17",
+        "x": 512,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "18",
+        "x": 768,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "19",
+        "x": 1024,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "20",
+        "x": 0,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "21",
+        "x": 256,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "22",
+        "x": 512,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "23",
+        "x": 768,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "24",
+        "x": 1024,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      }
+    ],
+    "modified": 1790052204050082684,
+    "atlas": "estudio-juegos/data/personajes-kira/personajes/goz/e3/alt_mira_izquierda/jump_atlas.json",
+    "character": "goz",
+    "stage": "e3",
+    "movement": "jump",
+    "movementLabel": "Saltar",
+    "direction": "izquierda",
+    "collection": "kira-v3",
+    "frameCount": 25,
+    "sourceNote": "Torogoz adulto. volar = vuelo horizontal estricto. Mira a la derecha (flipeado). walk sostiene 3/4.",
+    "status": "ok",
+    "fps": 12,
+    "sha256": "ea763408a5d70de852173e850179a11eacab50650599199a99b998ac6612a8a4",
+    "packagePath": "assets/personajes/goz/e3/jump-izquierda.png",
+    "absolutePath": "/home/customer/juegos_workspace/estudio-juegos/data/personajes-kira/personajes/goz/e3/alt_mira_izquierda/jump_sheet.png",
+    "atlasPackagePath": "assets/personajes/goz/e3/jump-izquierda.json"
+  },
+  {
+    "id": "97c4615bddbc819a6e37cba5",
+    "name": "GOZ · Etapa 3 · Volar · Izquierda",
+    "path": "estudio-juegos/data/personajes-kira/personajes/goz/e3/alt_mira_izquierda/volar_sheet.png",
+    "source": "Personajes KIRA",
+    "category": "personajes",
+    "bytes": 152725,
+    "kind": "image",
+    "url": "/asset/97c4615bddbc819a6e37cba5?v=1790052204054082728",
+    "thumbnail": "/thumb/97c4615bddbc819a6e37cba5?v=1790052204054082728",
+    "width": 1280,
+    "height": 1280,
+    "frames": [
+      {
+        "name": "0",
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "1",
+        "x": 256,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "2",
+        "x": 512,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "3",
+        "x": 768,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "4",
+        "x": 1024,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "5",
+        "x": 0,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "6",
+        "x": 256,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "7",
+        "x": 512,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "8",
+        "x": 768,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "9",
+        "x": 1024,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "10",
+        "x": 0,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "11",
+        "x": 256,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "12",
+        "x": 512,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "13",
+        "x": 768,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "14",
+        "x": 1024,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "15",
+        "x": 0,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "16",
+        "x": 256,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "17",
+        "x": 512,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "18",
+        "x": 768,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "19",
+        "x": 1024,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "20",
+        "x": 0,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "21",
+        "x": 256,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "22",
+        "x": 512,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "23",
+        "x": 768,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "24",
+        "x": 1024,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      }
+    ],
+    "modified": 1790052204054082728,
+    "atlas": "estudio-juegos/data/personajes-kira/personajes/goz/e3/alt_mira_izquierda/volar_atlas.json",
+    "character": "goz",
+    "stage": "e3",
+    "movement": "volar",
+    "movementLabel": "Volar",
+    "direction": "izquierda",
+    "collection": "kira-v3",
+    "frameCount": 25,
+    "sourceNote": "Torogoz adulto. volar = vuelo horizontal estricto. Mira a la derecha (flipeado). walk sostiene 3/4.",
+    "status": "ok",
+    "fps": 12,
+    "sha256": "feea5151404b27daa81d29f1a6554de0a3602087db05ca5da12435562ecc664e",
+    "packagePath": "assets/personajes/goz/e3/volar-izquierda.png",
+    "absolutePath": "/home/customer/juegos_workspace/estudio-juegos/data/personajes-kira/personajes/goz/e3/alt_mira_izquierda/volar_sheet.png",
+    "atlasPackagePath": "assets/personajes/goz/e3/volar-izquierda.json"
+  },
+  {
+    "id": "98899603884e77ebdac5bdca",
+    "name": "GOZ · Etapa 3 · Volar",
+    "path": "estudio-juegos/data/personajes-kira/personajes/goz/e3/volar_sheet.png",
+    "source": "Personajes KIRA",
+    "category": "personajes",
+    "bytes": 242292,
+    "kind": "image",
+    "url": "/asset/98899603884e77ebdac5bdca?v=1790052204078082997",
+    "thumbnail": "/thumb/98899603884e77ebdac5bdca?v=1790052204078082997",
+    "width": 1280,
+    "height": 1280,
+    "frames": [
+      {
+        "name": "0",
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "1",
+        "x": 256,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "2",
+        "x": 512,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "3",
+        "x": 768,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "4",
+        "x": 1024,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "5",
+        "x": 0,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "6",
+        "x": 256,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "7",
+        "x": 512,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "8",
+        "x": 768,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "9",
+        "x": 1024,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "10",
+        "x": 0,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "11",
+        "x": 256,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "12",
+        "x": 512,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "13",
+        "x": 768,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "14",
+        "x": 1024,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "15",
+        "x": 0,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "16",
+        "x": 256,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "17",
+        "x": 512,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "18",
+        "x": 768,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "19",
+        "x": 1024,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "20",
+        "x": 0,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "21",
+        "x": 256,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "22",
+        "x": 512,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "23",
+        "x": 768,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "24",
+        "x": 1024,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      }
+    ],
+    "modified": 1790052204078082997,
+    "atlas": "estudio-juegos/data/personajes-kira/personajes/goz/e3/volar_atlas.json",
+    "character": "goz",
+    "stage": "e3",
+    "movement": "volar",
+    "movementLabel": "Volar",
+    "direction": "original",
+    "collection": "kira-v3",
+    "frameCount": 25,
+    "sourceNote": "Torogoz adulto. volar = vuelo horizontal estricto. Mira a la derecha (flipeado). walk sostiene 3/4.",
+    "status": "ok",
+    "fps": 12,
+    "sha256": "c8c590e55a6bf502be55010cf67c545d49705c7cbe791b5fd48a10d75c3fecac",
+    "packagePath": "assets/personajes/goz/e3/volar.png",
+    "absolutePath": "/home/customer/juegos_workspace/estudio-juegos/data/personajes-kira/personajes/goz/e3/volar_sheet.png",
+    "atlasPackagePath": "assets/personajes/goz/e3/volar.json"
+  },
+  {
+    "id": "9bcd74e7a06e9f54d5abacd1",
+    "name": "boton-pausa-normal",
+    "path": "diseño juegos matemáticas/02-componentes/png/boton-pausa-normal.png",
+    "source": "diseño juegos matemáticas",
+    "category": "interfaz",
+    "bytes": 9607,
+    "kind": "image",
+    "url": "/asset/9bcd74e7a06e9f54d5abacd1?v=1790036381000000000",
+    "thumbnail": "/thumb/9bcd74e7a06e9f54d5abacd1?v=1790036381000000000",
+    "width": 0,
+    "height": 0,
+    "frames": [],
+    "modified": 1790036381000000000,
+    "packagePath": "assets/interfaz/boton-pausa-normal.png",
+    "absolutePath": "/home/customer/juegos_workspace/diseño juegos matemáticas/02-componentes/png/boton-pausa-normal.png",
+    "sha256": "37502c903e72f2903416950d7ec5a71cf016ede74cdb18e9fd3a85b02a5d68b7"
+  },
+  {
+    "id": "b373007861f1eeaa49cdc5da",
+    "name": "pedestal",
+    "path": "estudio-juegos/data/imports/f983d384-77a8-45aa-a85e-ea39a6a76aaa/pedestal.png",
+    "source": "Importados",
+    "category": "props",
+    "bytes": 2114351,
+    "kind": "image",
+    "url": "/asset/b373007861f1eeaa49cdc5da?v=1791567328651708524",
+    "thumbnail": "/thumb/b373007861f1eeaa49cdc5da?v=1791567328651708524",
+    "width": 1536,
+    "height": 1024,
+    "frames": [],
+    "modified": 1791567328651708524,
+    "originalRelativePath": "pedestal.png",
+    "packagePath": "assets/props/pedestal.png",
+    "absolutePath": "/home/customer/juegos_workspace/estudio-juegos/data/imports/f983d384-77a8-45aa-a85e-ea39a6a76aaa/pedestal.png",
+    "sha256": "2cbefb52e75a04e59a4b5516c3aa12405796434f52a613309e500e25615064fe"
+  },
+  {
+    "id": "c040baef29e4136d7e9cbe3d",
+    "name": "GOZ · Etapa 3 · Correr · Izquierda",
+    "path": "estudio-juegos/data/personajes-kira/personajes/goz/e3/alt_mira_izquierda/run_sheet.png",
+    "source": "Personajes KIRA",
+    "category": "personajes",
+    "bytes": 215929,
+    "kind": "image",
+    "url": "/asset/c040baef29e4136d7e9cbe3d?v=1790052204054082728",
+    "thumbnail": "/thumb/c040baef29e4136d7e9cbe3d?v=1790052204054082728",
+    "width": 1280,
+    "height": 1280,
+    "frames": [
+      {
+        "name": "0",
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "1",
+        "x": 256,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "2",
+        "x": 512,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "3",
+        "x": 768,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "4",
+        "x": 1024,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "5",
+        "x": 0,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "6",
+        "x": 256,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "7",
+        "x": 512,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "8",
+        "x": 768,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "9",
+        "x": 1024,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "10",
+        "x": 0,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "11",
+        "x": 256,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "12",
+        "x": 512,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "13",
+        "x": 768,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "14",
+        "x": 1024,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "15",
+        "x": 0,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "16",
+        "x": 256,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "17",
+        "x": 512,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "18",
+        "x": 768,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "19",
+        "x": 1024,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "20",
+        "x": 0,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "21",
+        "x": 256,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "22",
+        "x": 512,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "23",
+        "x": 768,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "24",
+        "x": 1024,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      }
+    ],
+    "modified": 1790052204054082728,
+    "atlas": "estudio-juegos/data/personajes-kira/personajes/goz/e3/alt_mira_izquierda/run_atlas.json",
+    "character": "goz",
+    "stage": "e3",
+    "movement": "run",
+    "movementLabel": "Correr",
+    "direction": "izquierda",
+    "collection": "kira-v3",
+    "frameCount": 25,
+    "sourceNote": "Torogoz adulto. volar = vuelo horizontal estricto. Mira a la derecha (flipeado). walk sostiene 3/4.",
+    "status": "ok",
+    "fps": 12,
+    "sha256": "3d536598bb74abe08eb30ac9c2b8e7139fd92520cab373de54be33fad6df7f74",
+    "packagePath": "assets/personajes/goz/e3/run-izquierda.png",
+    "absolutePath": "/home/customer/juegos_workspace/estudio-juegos/data/personajes-kira/personajes/goz/e3/alt_mira_izquierda/run_sheet.png",
+    "atlasPackagePath": "assets/personajes/goz/e3/run-izquierda.json"
+  },
+  {
+    "id": "c5908e9295a349ce0783cd66",
+    "name": "01-cielo",
+    "path": "estudio-juegos/data/imports/dbf35428-9c09-4356-a474-5ade715cfe7a/01-cielo.png",
+    "source": "Importados",
+    "category": "props",
+    "bytes": 1471991,
+    "kind": "image",
+    "url": "/asset/c5908e9295a349ce0783cd66?v=1791567592141796592",
+    "thumbnail": "/thumb/c5908e9295a349ce0783cd66?v=1791567592141796592",
+    "width": 1672,
+    "height": 941,
+    "frames": [],
+    "modified": 1791567592141796592,
+    "originalRelativePath": "01-cielo.png",
+    "packagePath": "assets/props/01-cielo.png",
+    "absolutePath": "/home/customer/juegos_workspace/estudio-juegos/data/imports/dbf35428-9c09-4356-a474-5ade715cfe7a/01-cielo.png",
+    "sha256": "3025d8de8294ec90d92d3ee6308b126394603b80027bf8146090c30f53724463"
+  },
+  {
+    "id": "c657baf65fb921ae9c146c93",
+    "name": "boton-sonido-normal",
+    "path": "diseño juegos matemáticas/02-componentes/png/boton-sonido-normal.png",
+    "source": "diseño juegos matemáticas",
+    "category": "interfaz",
+    "bytes": 11119,
+    "kind": "image",
+    "url": "/asset/c657baf65fb921ae9c146c93?v=1790036382000000000",
+    "thumbnail": "/thumb/c657baf65fb921ae9c146c93?v=1790036382000000000",
+    "width": 0,
+    "height": 0,
+    "frames": [],
+    "modified": 1790036382000000000,
+    "packagePath": "assets/interfaz/boton-sonido-normal.png",
+    "absolutePath": "/home/customer/juegos_workspace/diseño juegos matemáticas/02-componentes/png/boton-sonido-normal.png",
+    "sha256": "1a135ff11756376743e95be7dc1e9a6a8e3cf5a64b802135afc936f985d58d13"
+  },
+  {
+    "id": "cc7e872a2cbc0ebaffef0d02",
+    "name": "03-nubes-cercanas",
+    "path": "estudio-juegos/data/imports/28afb5ae-e8c3-40a7-8b6e-23880e1e9522/03-nubes-cercanas.png",
+    "source": "Importados",
+    "category": "props",
+    "bytes": 1145960,
+    "kind": "image",
+    "url": "/asset/cc7e872a2cbc0ebaffef0d02?v=1791567558241528008",
+    "thumbnail": "/thumb/cc7e872a2cbc0ebaffef0d02?v=1791567558241528008",
+    "width": 1672,
+    "height": 941,
+    "frames": [],
+    "modified": 1791567558241528008,
+    "originalRelativePath": "03-nubes-cercanas.png",
+    "packagePath": "assets/props/03-nubes-cercanas.png",
+    "absolutePath": "/home/customer/juegos_workspace/estudio-juegos/data/imports/28afb5ae-e8c3-40a7-8b6e-23880e1e9522/03-nubes-cercanas.png",
+    "sha256": "68d4ffb7d49aabed67a7c4f1631eb6b8df9aabec7392507772dff7bc60058f99"
+  },
+  {
+    "id": "d3b49cf8baf9c9030c358be3",
+    "name": "GOZ · Etapa 3 · Referencia",
+    "path": "estudio-juegos/data/personajes-kira/personajes/goz/e3/ref_oficial.png",
+    "source": "Personajes KIRA",
+    "category": "personajes",
+    "bytes": 234766,
+    "kind": "image",
+    "url": "/asset/d3b49cf8baf9c9030c358be3?v=1790052204074082953",
+    "thumbnail": "/thumb/d3b49cf8baf9c9030c358be3?v=1790052204074082953",
+    "width": 614,
+    "height": 716,
+    "frames": [],
+    "modified": 1790052204074082953,
+    "character": "goz",
+    "stage": "e3",
+    "movement": "ref_oficial",
+    "movementLabel": "Referencia",
+    "direction": "original",
+    "collection": "kira-v3",
+    "frameCount": 0,
+    "sourceNote": "Torogoz adulto. volar = vuelo horizontal estricto. Mira a la derecha (flipeado). walk sostiene 3/4.",
+    "status": "ok",
+    "fps": 12,
+    "sha256": "197025fc99ae6c1b335d9af4d5a09c185b3b68945db4ad962320970d88b41de6",
+    "packagePath": "assets/personajes/goz/e3/ref_oficial.png",
+    "absolutePath": "/home/customer/juegos_workspace/estudio-juegos/data/personajes-kira/personajes/goz/e3/ref_oficial.png"
+  },
+  {
+    "id": "d8e7341c41b61035ec085002",
+    "name": "flecha-abajo",
+    "path": "estudio-juegos/data/imports/69a0b3c8-2bd9-4744-aefb-a6d8dae3f526/flecha-abajo.png",
+    "source": "Importados",
+    "category": "props",
+    "bytes": 11040,
+    "kind": "image",
+    "url": "/asset/d8e7341c41b61035ec085002?v=1791413145640983453",
+    "thumbnail": "/thumb/d8e7341c41b61035ec085002?v=1791413145640983453",
+    "width": 512,
+    "height": 512,
+    "frames": [],
+    "modified": 1791413145640983453,
+    "originalRelativePath": "flecha-abajo.png",
+    "packagePath": "assets/props/flecha-abajo.png",
+    "absolutePath": "/home/customer/juegos_workspace/estudio-juegos/data/imports/69a0b3c8-2bd9-4744-aefb-a6d8dae3f526/flecha-abajo.png",
+    "sha256": "59bfc3fd43690c0e798e198ea6f412417c8b47ccd74741fe2fdda0eec3ff0616"
+  },
+  {
+    "id": "e4191a12a7b3429d460e666b",
+    "name": "caja-respuesta",
+    "path": "estudio-juegos/data/imports/2d42b8f0-b5b4-4c05-ba3a-7d74a49517c2/caja-respuesta.png",
+    "source": "Importados",
+    "category": "props",
+    "bytes": 1896270,
+    "kind": "image",
+    "url": "/asset/e4191a12a7b3429d460e666b?v=1791567336951774320",
+    "thumbnail": "/thumb/e4191a12a7b3429d460e666b?v=1791567336951774320",
+    "width": 1254,
+    "height": 1254,
+    "frames": [],
+    "modified": 1791567336951774320,
+    "originalRelativePath": "caja-respuesta.png",
+    "packagePath": "assets/props/caja-respuesta.png",
+    "absolutePath": "/home/customer/juegos_workspace/estudio-juegos/data/imports/2d42b8f0-b5b4-4c05-ba3a-7d74a49517c2/caja-respuesta.png",
+    "sha256": "fdafea7b51e82364f63643f76c9c7c21b281e9cf364e79ed7bb5123508027777"
+  },
+  {
+    "id": "e42d425f653a80071417a057",
+    "name": "pantalla-instrucciones-v1",
+    "path": "estudio-juegos/data/imports/6f20218d-1003-40f5-99d8-6c50992d51da/pantalla-instrucciones-v1.png",
+    "source": "Importados",
+    "category": "referencias",
+    "bytes": 2241641,
+    "kind": "image",
+    "url": "/asset/e42d425f653a80071417a057?v=1791568335911686729",
+    "thumbnail": "/thumb/e42d425f653a80071417a057?v=1791568335911686729",
+    "width": 1672,
+    "height": 941,
+    "frames": [],
+    "modified": 1791568335911686729,
+    "originalRelativePath": "pantalla-instrucciones-v1.png",
+    "packagePath": "assets/referencias/pantalla-instrucciones-v1.png",
+    "absolutePath": "/home/customer/juegos_workspace/estudio-juegos/data/imports/6f20218d-1003-40f5-99d8-6c50992d51da/pantalla-instrucciones-v1.png",
+    "sha256": "ad04b932b9785a1507e33f2cfef520a1c79a2b56e8db224a8a5560c7990e9b23"
+  },
+  {
+    "id": "e935d048a2e26059991ecaee",
+    "name": "panel-reto",
+    "path": "estudio-juegos/data/imports/c2358615-8181-43d0-b7e4-8409fa397fc5/panel-reto.png",
+    "source": "Importados",
+    "category": "interfaz",
+    "bytes": 1863518,
+    "kind": "image",
+    "url": "/asset/e935d048a2e26059991ecaee?v=1791567219546843490",
+    "thumbnail": "/thumb/e935d048a2e26059991ecaee?v=1791567219546843490",
+    "width": 1672,
+    "height": 941,
+    "frames": [],
+    "modified": 1791567219546843490,
+    "originalRelativePath": "panel-reto.png",
+    "packagePath": "assets/interfaz/panel-reto.png",
+    "absolutePath": "/home/customer/juegos_workspace/estudio-juegos/data/imports/c2358615-8181-43d0-b7e4-8409fa397fc5/panel-reto.png",
+    "sha256": "e67b01fb61c7f1931a6b3a1f5e95d2980b7584d63e9d2b4d2838803efae38725"
+  },
+  {
+    "id": "eed654d8a71ad9b66578e3de",
+    "name": "GOZ · Etapa 3 · Reposo",
+    "path": "estudio-juegos/data/personajes-kira/personajes/goz/e3/idle_sheet.png",
+    "source": "Personajes KIRA",
+    "category": "personajes",
+    "bytes": 304238,
+    "kind": "image",
+    "url": "/asset/eed654d8a71ad9b66578e3de?v=1790052204058082773",
+    "thumbnail": "/thumb/eed654d8a71ad9b66578e3de?v=1790052204058082773",
+    "width": 1280,
+    "height": 1280,
+    "frames": [
+      {
+        "name": "0",
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "1",
+        "x": 256,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "2",
+        "x": 512,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "3",
+        "x": 768,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "4",
+        "x": 1024,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "5",
+        "x": 0,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "6",
+        "x": 256,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "7",
+        "x": 512,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "8",
+        "x": 768,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "9",
+        "x": 1024,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "10",
+        "x": 0,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "11",
+        "x": 256,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "12",
+        "x": 512,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "13",
+        "x": 768,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "14",
+        "x": 1024,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "15",
+        "x": 0,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "16",
+        "x": 256,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "17",
+        "x": 512,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "18",
+        "x": 768,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "19",
+        "x": 1024,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "20",
+        "x": 0,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "21",
+        "x": 256,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "22",
+        "x": 512,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "23",
+        "x": 768,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "24",
+        "x": 1024,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      }
+    ],
+    "modified": 1790052204058082773,
+    "atlas": "estudio-juegos/data/personajes-kira/personajes/goz/e3/idle_atlas.json",
+    "character": "goz",
+    "stage": "e3",
+    "movement": "idle",
+    "movementLabel": "Reposo",
+    "direction": "original",
+    "collection": "kira-v3",
+    "frameCount": 25,
+    "sourceNote": "Torogoz adulto. volar = vuelo horizontal estricto. Mira a la derecha (flipeado). walk sostiene 3/4.",
+    "status": "ok",
+    "fps": 8,
+    "sha256": "f56c392ca243ab18249bd0c30f3be56e5b92b4fa9cd1380b61b8d7be40a8f4fd",
+    "packagePath": "assets/personajes/goz/e3/idle.png",
+    "absolutePath": "/home/customer/juegos_workspace/estudio-juegos/data/personajes-kira/personajes/goz/e3/idle_sheet.png",
+    "atlasPackagePath": "assets/personajes/goz/e3/idle.json"
+  },
+  {
+    "id": "f712fe236f663a05dc0d7723",
+    "name": "efecto-acierto",
+    "path": "estudio-juegos/data/imports/61c3c36a-f1db-421f-bad1-dabb6cfb325f/efecto-acierto.png",
+    "source": "Importados",
+    "category": "props",
+    "bytes": 968752,
+    "kind": "image",
+    "url": "/asset/f712fe236f663a05dc0d7723?v=1791567984952907843",
+    "thumbnail": "/thumb/f712fe236f663a05dc0d7723?v=1791567984952907843",
+    "width": 1322,
+    "height": 1190,
+    "frames": [],
+    "modified": 1791567984952907843,
+    "originalRelativePath": "efecto-acierto.png",
+    "packagePath": "assets/props/efecto-acierto.png",
+    "absolutePath": "/home/customer/juegos_workspace/estudio-juegos/data/imports/61c3c36a-f1db-421f-bad1-dabb6cfb325f/efecto-acierto.png",
+    "sha256": "53e4be72983edfe2d278d791d0425b38ff10ef20aba760ac7a84c69154c588c9"
+  },
+  {
+    "id": "f9ef262eec9ca6408b693770",
+    "name": "GOZ · Etapa 3 · Correr",
+    "path": "estudio-juegos/data/personajes-kira/personajes/goz/e3/run_sheet.png",
+    "source": "Personajes KIRA",
+    "category": "personajes",
+    "bytes": 340050,
+    "kind": "image",
+    "url": "/asset/f9ef262eec9ca6408b693770?v=1790052204078082997",
+    "thumbnail": "/thumb/f9ef262eec9ca6408b693770?v=1790052204078082997",
+    "width": 1280,
+    "height": 1280,
+    "frames": [
+      {
+        "name": "0",
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "1",
+        "x": 256,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "2",
+        "x": 512,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "3",
+        "x": 768,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "4",
+        "x": 1024,
+        "y": 0,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "5",
+        "x": 0,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "6",
+        "x": 256,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "7",
+        "x": 512,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "8",
+        "x": 768,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "9",
+        "x": 1024,
+        "y": 256,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "10",
+        "x": 0,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "11",
+        "x": 256,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "12",
+        "x": 512,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "13",
+        "x": 768,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "14",
+        "x": 1024,
+        "y": 512,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "15",
+        "x": 0,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "16",
+        "x": 256,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "17",
+        "x": 512,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "18",
+        "x": 768,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "19",
+        "x": 1024,
+        "y": 768,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "20",
+        "x": 0,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "21",
+        "x": 256,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "22",
+        "x": 512,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "23",
+        "x": 768,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      },
+      {
+        "name": "24",
+        "x": 1024,
+        "y": 1024,
+        "w": 256,
+        "h": 256
+      }
+    ],
+    "modified": 1790052204078082997,
+    "atlas": "estudio-juegos/data/personajes-kira/personajes/goz/e3/run_atlas.json",
+    "character": "goz",
+    "stage": "e3",
+    "movement": "run",
+    "movementLabel": "Correr",
+    "direction": "original",
+    "collection": "kira-v3",
+    "frameCount": 25,
+    "sourceNote": "Torogoz adulto. volar = vuelo horizontal estricto. Mira a la derecha (flipeado). walk sostiene 3/4.",
+    "status": "ok",
+    "fps": 12,
+    "sha256": "1520cb962cc50326380e0320d49603c0006d5f1989c45912035cb22123a2962a",
+    "packagePath": "assets/personajes/goz/e3/run.png",
+    "absolutePath": "/home/customer/juegos_workspace/estudio-juegos/data/personajes-kira/personajes/goz/e3/run_sheet.png",
+    "atlasPackagePath": "assets/personajes/goz/e3/run.json"
+  }
+]

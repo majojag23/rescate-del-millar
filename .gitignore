@@ -1,0 +1,13 @@
+# Entregas y empaquetado: se regeneran desde esta carpeta
+entrega/
+Rescate_millar_entrega/
+*.zip
+
+# Secretos y archivos locales (la clave de ElevenLabs nunca va al repositorio)
+.env
+.env.*
+*.pem
+*.key
+node_modules/
+.DS_Store
+Thumbs.db

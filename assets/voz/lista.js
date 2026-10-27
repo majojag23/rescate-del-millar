@@ -1,0 +1,2 @@
+/* Lista de audios MP3 generados (la reescribe el generador). Vacía = el juego usa la voz del navegador. */
+window.VOZ_LISTA = ["nar-consigna","nar-final-0","nar-final-1","nar-final-2","nar-final-3","nar-final-4","nar-g1a","nar-g1b","nar-gracias","nar-intro","nar-j04","nar-no-a","nar-no-b","nar-no-c1","nar-no-c2","nar-no-c3","nar-no-c4","nar-no-c5","nar-no-c6","nar-nosel","nar-ok","nar-p1-1","nar-p1-2","nar-p1-3","nar-p1-4","nar-p1-5","nar-p1-6","nar-p2","nar-prueba","nar-prueba-ok","nar-q1","nar-q2","nar-q3","nar-q4","nar-q5","nar-q6","nar-tiempo","nar-vuela"];

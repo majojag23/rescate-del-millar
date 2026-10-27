@@ -1,0 +1,5 @@
+@font-face{font-family:'Nunito Sans';src:url('fonts/nunitosans-NunitoSans[YTLC,opsz,wdth,wght].ttf') format('truetype');font-weight:200 1000;font-style:normal}
+@font-face{font-family:'Nunito Sans';src:url('fonts/nunitosans-NunitoSans-Italic[YTLC,opsz,wdth,wght].ttf') format('truetype');font-weight:200 1000;font-style:italic}
+@font-face{font-family:Inter;src:url('fonts/inter-Inter[opsz,wght].ttf') format('truetype');font-weight:100 900;font-style:normal}
+@font-face{font-family:Inter;src:url('fonts/inter-Inter-Italic[opsz,wght].ttf') format('truetype');font-weight:100 900;font-style:italic}
+.canvas-text-input{position:fixed;z-index:1000;box-sizing:border-box;margin:0;padding:0;border:0;outline:2px solid #c2f178;border-radius:0;background:#162032;resize:none;transform-origin:center;min-width:0;min-height:0;white-space:pre-wrap;overflow:auto}

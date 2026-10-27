@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=no, viewport-fit=cover" />
+<meta name="apple-mobile-web-app-capable" content="yes" />
+<meta name="mobile-web-app-capable" content="yes" />
+<meta name="theme-color" content="#8fcdf3" />
+<title>Rescate del millar</title>
+<link rel="stylesheet" href="fonts.css" />
+<link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+<div id="stage-wrap">
+  <div id="stage">
+
+    <!-- ============ CARGA ============ -->
+    <div id="screen-loading" class="screen active">
+      <div id="loading-title">RESCATE<br>DEL MILLAR</div>
+      <div id="loading-sub">Desplegando las alas...</div>
+      <div id="loading-track"><div id="loading-fill"></div></div>
+    </div>
+
+    <!-- ============ INICIO ============ -->
+    <div id="screen-start" class="screen">
+      <img class="screen-art" src="assets/web/pantallas/inicio.webp" alt="Rescate del millar. Vuela con Goz y restaura el mosaico." draggable="false" />
+      <button class="hotspot" id="btn-play" aria-label="Jugar" style="left:468px; top:498px; width:346px; height:100px;"></button>
+      <button class="hotspot" id="btn-instructions" aria-label="Instrucciones" style="left:474px; top:610px; width:334px; height:70px;"></button>
+      <button class="hotspot round" id="btn-mute-a" aria-label="Sonido" style="left:1192px; top:20px; width:68px; height:68px;"></button>
+    </div>
+
+    <!-- ============ INSTRUCCIONES ============ -->
+    <div id="screen-instructions" class="screen">
+      <img class="screen-art" src="assets/web/pantallas/instrucciones.webp" alt="Cómo jugar. Uno: vuela con Goz hasta cada estación. Dos: resuelve la suma en M, C, D, U. Tres: elige la caja con el resultado correcto. Cuatro: completa los 6 retos y restaura el mosaico." draggable="false" />
+      <button class="hotspot" id="btn-go" aria-label="¡A volar!" style="left:412px; top:646px; width:288px; height:66px;"></button>
+      <button class="hotspot" id="btn-inst-back" aria-label="Volver" style="left:716px; top:648px; width:162px; height:60px;"></button>
+    </div>
+
+    <!-- ============ JUEGO ============ -->
+    <div id="screen-game" class="screen">
+      <div id="world">
+        <div class="strip" id="strip-sky"></div>
+        <div class="strip" id="strip-isl"></div>
+        <div class="strip" id="strip-clo"></div>
+        <canvas id="envc" width="1280" height="720"></canvas>
+        <div id="coins"></div>
+
+        <!-- estación: tabla de valor posicional, cajas con pedestal y mosaico -->
+        <div id="station">
+          <div id="panel"><img src="assets/web/panel.webp" alt="" draggable="false" /></div>
+          <div id="q-title"></div>
+          <div id="grid"><img src="assets/web/diagrama.webp" alt="Tabla de valor posicional M C D U" draggable="false" /><div id="colglow"></div><div id="cells"></div></div>
+          <i id="carry">1</i>
+          <svg id="carry-arrow" viewBox="0 0 120 60" aria-hidden="true"><path d="M8 52 C 28 4, 92 4, 112 46" fill="none" stroke="#ff9a1f" stroke-width="7" stroke-linecap="round" stroke-dasharray="2 12"/><path d="M98 30 L114 50 L90 52 Z" fill="#ff9a1f"/></svg>
+          <div id="q-hint"></div>
+          <div id="boxes"></div>
+          <div id="mosaic"><img src="assets/web/mosaico.webp" alt="Mosaico por restaurar" draggable="false" /><div id="pieces"></div><i id="orb"></i></div>
+        </div>
+
+        <div id="goz" class="char"><div class="spr" id="goz-spr" aria-label="Goz"></div></div>
+        <canvas id="fxc" width="1920" height="1080"></canvas>
+        <div id="fx"></div>
+        <div id="flash"></div>
+      </div>
+
+      <div id="hud">
+        <div id="hud-stars"></div>
+        <div id="hud-reto"><span id="reto-text">Reto 1 de 6</span></div>
+        <div id="coin-pill"><img src="assets/web/moneda.webp" alt="" draggable="false" /><b id="coin-n">0</b></div>
+        <button id="btn-listen" class="chip" aria-label="Leer en voz alta"><i>🔊</i><span>Leer en voz alta</span></button>
+        <div id="vbox" aria-hidden="true"><span id="vbox-ico"></span></div>
+        <button id="btn-sound" class="icon-btn" aria-label="Sonido"><img src="assets/web/btn-sonido.webp" alt="" draggable="false" /></button>
+        <button id="btn-pause" class="icon-btn" aria-label="Pausa"><img src="assets/web/btn-pausa.webp" alt="" draggable="false" /></button>
+        <button id="btn-up" class="arrow" aria-label="Volar hacia arriba"><img src="assets/web/flecha-arriba.webp" alt="" draggable="false" /></button>
+        <button id="btn-down" class="arrow" aria-label="Volar hacia abajo"><img src="assets/web/flecha-abajo.webp" alt="" draggable="false" /></button>
+      </div>
+      <div id="title-card"><span id="tc-a">¡Recoge monedas!</span><small id="tc-b">Camino a la estación 1</small></div>
+    </div>
+
+    <!-- ============ DESPUÉS DEL JUEGO (J-04) ============ -->
+    <div id="screen-reflect" class="screen">
+      <div class="rec-bg"></div>
+      <div class="card reflect-card">
+        <h2>¿Cuál reto te costó más?</h2>
+        <div id="rf-summary"></div>
+        <div class="rf-q">Selecciona el reto que te costó más.</div>
+        <div id="rf-orders"></div>
+        <div class="rf-q">¿Qué estrategia usaste?</div>
+        <div class="rf-hint">Piensa en la columna de centenas de ese reto.</div>
+        <input id="rf-text" type="text" maxlength="90" autocomplete="off" placeholder="Escribe aquí tu estrategia..." aria-label="Estrategia usada" />
+        <div id="rf-opts"></div>
+        <button class="pbtn primary" id="rf-continue" disabled>Continuar</button>
+        <div id="rf-thanks"></div>
+      </div>
+    </div>
+
+    <!-- ============ PAUSA ============ -->
+    <div id="pause-overlay">
+      <div class="modal">
+        <h2>Pausa</h2>
+        <div class="modal-btns">
+          <button class="pbtn primary" id="btn-resume">Continuar</button>
+          <button class="pbtn" id="btn-restart">Reiniciar</button>
+          <button class="pbtn" id="btn-pause-home">Inicio</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- ============ FINAL ============ -->
+    <div id="end-overlay">
+      <div class="modal end-modal">
+        <div class="end-chars"><div id="end-mosaic"></div><div id="end-goz" class="spr"></div></div>
+        <div class="end-text">
+          <h1>¡Lo lograste!</h1>
+          <p id="end-phrase"></p>
+          <div class="end-stars" id="end-stars"></div>
+          <div class="end-sum" id="end-sum"></div>
+          <div class="modal-btns">
+            <button class="pbtn primary" id="btn-again">Volver a jugar</button>
+            <button class="pbtn" id="btn-end-home">Inicio</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- ============ GIRAR TABLET ============ -->
+    <div id="rotate-hint">
+      <div class="rot-ico">📱↻</div>
+      <p>Gira la tablet<br>en horizontal</p>
+    </div>
+
+  </div>
+</div>
+
+<script src="js/voz-guion.js"></script>
+<script src="assets/voz/lista.js"></script>
+<script src="js/sfx.js"></script>
+<script src="js/voice.js"></script>
+<script src="js/game.js"></script>
+</body>
+</html>
