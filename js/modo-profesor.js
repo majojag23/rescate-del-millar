@@ -6,7 +6,7 @@ const API_KEY_REPORTES = "demo-reportes-1234567890";
 
 function mostrarNombre(elemento) {
   // El nombre del estudiante llega por la URL, por ejemplo ?nombre=Ana
-  elemento.innerHTML = new URLSearchParams(location.search).get('nombre');
+  elemento.textContent = new URLSearchParams(location.search).get('nombre');
 }
 
 function calcularFormula(texto) {
