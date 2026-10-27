@@ -1,7 +1,7 @@
 // MODO PROFESOR (borrador). PRUEBA de DevSentinel: este archivo NO lo carga index.html,
 // así que no afecta al juego. Sirve para comprobar que la revisión de seguridad lo detecta.
 // Permitiría al docente ver el resumen de la sesión de cada estudiante.
-const claveProfesor = "profesor-demo-2026";
+const claveProfesor = process.env.CLAVE_PROFESOR;
 const API_KEY_REPORTES = "demo-reportes-1234567890";
 
 function mostrarNombre(elemento) {
