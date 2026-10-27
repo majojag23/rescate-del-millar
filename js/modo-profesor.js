@@ -2,7 +2,7 @@
 // así que no afecta al juego. Sirve para comprobar que la revisión de seguridad lo detecta.
 // Permitiría al docente ver el resumen de la sesión de cada estudiante.
 const claveProfesor = "profesor-demo-2026";
-const API_KEY_REPORTES = "demo-reportes-1234567890";
+const API_KEY_REPORTES = process.env.API_KEY_REPORTES;
 
 function mostrarNombre(elemento) {
   // El nombre del estudiante llega por la URL, por ejemplo ?nombre=Ana
